@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ingedafel
 - 👀 I’m interested in programming and software development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on new projects!
 - 📫 How to reach me dafelinge@gmail.com
 
 <!---
